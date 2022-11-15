@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @danyalbabur
-- 👀 I’m interested in Programming(python,c,cpp) and Martial Arts(irl)
-- 🌱 I’m currently learning Python and C/CPP
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me Instagram(danyalbabur)
+ Hi, I’m Danyal Babur
+ I’m interested in Programming (Python,C/C++)
+ I’m currently learning Python
+💞️ I’m looking to collaborate on Python repositories
+ Reach me on [LinkedIn](https://www.linkedin.com/in/danyal-babur-759105257) or [Instagram](https://www.instagram.com/danyalbabur/)
 
 <!---
 danyalbabur/danyalbabur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
