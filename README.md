@@ -6,6 +6,7 @@
  
  I’m currently learning Python
  
+ I'm currently learning AutoCad too
  
  I’m looking to collaborate on Python repositories
  Reach me on [LinkedIn](https://www.linkedin.com/in/danyal-babur-759105257) or [Instagram](https://www.instagram.com/danyalbabur/)
